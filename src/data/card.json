@@ -1,0 +1,23 @@
+[
+    {
+      "title": "Creating Photorealistic Landscapes with Stable Diffusion",
+      "description": "Learn how to create stunning AI-generated landscapes",
+      "creator": "AI Art Studio",
+      "views": 5645,
+      "type": "video"
+    },
+    {
+      "title": "The Last Algorithm - An AI Generated Short Story",
+      "description": "A compelling short story created entirely by AI",
+      "creator": "NeuralNarrator",
+      "views": 2646,
+      "type": "story"
+    },
+    {
+      "title": "Synthesized Symphony No. 1 in D Major",
+      "description": "Experience the future of AI-composed music",
+      "creator": "AI Composer",
+      "views": 1832,
+      "type": "music"
+    }
+  ]
